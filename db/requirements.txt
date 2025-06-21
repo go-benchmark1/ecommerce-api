@@ -3,3 +3,4 @@ faker_commerce
 bson
 stripe
 pymongo
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
